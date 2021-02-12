@@ -9,6 +9,7 @@
     * React Context API (Redux)
     * Modern Tech
     * React Hooks
+    * Hosting on Firebase
 
 ## Author
 

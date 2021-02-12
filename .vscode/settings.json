@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.fontSize": 15,
+    "files.autoSave": "onFocusChange",
+    "editor.wordWrap": "on",
+    "editor.fontSize": 15
+}
