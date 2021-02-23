@@ -17,7 +17,7 @@ Jatin Jasoliya
 
 # Demo
 
-The app is deployed using Firebase at:
+The app is deployed using Firebase at: https://spotify-clone-54da6.web.app
 
 ## Available Scripts
 
