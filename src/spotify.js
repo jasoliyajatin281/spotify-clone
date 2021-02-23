@@ -21,7 +21,7 @@ const scopes = [
 //http://localhost:3000/#access_token=mysupersecretkey&name=jatin
 
 // Pull out token from url
-export const getTokenFromUrl = () => {
+export const getTokenFromResponse = () => {
   return window.location.hash
     .substring(1)
     .split("&")
